@@ -2,5 +2,6 @@
 - I’m interested in cybersecurity
 - I’m currently learning Ruby
 - I’m looking to collaborate on rootkits and tools for osint and bruteforce
+- Linux Enthusiast [I use arch btw]
 - Don't like to share my work
-- How to reach me - I like privacy, you cant reach me. But here's my protonmail anyway samesepi0l@protonmail.com
+- How to reach me - samesepi0l@protonmail.com
