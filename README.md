@@ -4,4 +4,4 @@
 - I’m looking to collaborate on rootkits and tools for osint and bruteforce
 - Linux Enthusiast [I use arch btw]
 - Don't like to share my work
-- How to reach me - samesepi0l@protonmail.com
+- How to reach me - falkensmaze13@protonmail.com
