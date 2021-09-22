@@ -3,7 +3,7 @@ Hi, I'm Icarus 👨‍💻
 
 ***I'm a cybersecurity enthusiast and I like to code in Python. I also like Linux and open source software.***
 <p align="center"> 
-  <img src="https://i.ibb.co/T8w2HQn/Ultimate-Rice-2.png" alt="Ultimate-Rice-2" border="0"></a>
+  <img src="https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif" width="600">
 </p>
 
 
