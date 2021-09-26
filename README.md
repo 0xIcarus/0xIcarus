@@ -2,8 +2,9 @@ Hi, I'm Icarus 👨‍💻
 ==============
 
 ***I'm a cybersecurity enthusiast and I like to code in Python. I also like Linux and open source software.***
+
 <p align="center"> 
-  <img src="https://i.ibb.co/vz38GtC/carbon-1.png" alt="carbon-1" border="0" width="400">
+  <img src="https://i.ibb.co/H4dfMT3/carbon.png alt="carbon" border="0" width="400">
 </p>
 
 
