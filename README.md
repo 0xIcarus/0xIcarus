@@ -10,7 +10,7 @@ Hi, I'm Icarus 👨‍💻
 
 # About me:
     - I’m interested in cybersecurity
-    - I’m currently learning Ruby
+    - I’m currently learning Haskell
     - I’m looking to collaborate on rootkits and tools for osint and bruteforce tools
     - Linux Enthusiast
     - Don't like to share my work
