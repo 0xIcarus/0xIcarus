@@ -14,7 +14,7 @@ Hi, I'm Icarus 👨‍💻
     - I’m looking to collaborate on rootkits and tools for osint and bruteforce tools
     - Linux Enthusiast
     - Don't like to share my work
-    - How to reach me - anirudhprasad131@protonmail.com
+    - How to reach me - falkensmaze13@protonmail.com
 
 ---
 
