@@ -21,7 +21,7 @@ Hi, I'm Icarus 👨‍💻
 
 ***Stats***
 
-[![Icarus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Icarus131)](https://github.com/Icarus131/Icarus131)
+[![Icarus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Icarus131&theme=merko&border_color=000000)](https://github.com/Icarus131/Icarus131)
 
 ***Languages and Tools***
 
