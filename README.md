@@ -10,7 +10,7 @@ Hi, I'm Icarus 👨‍💻
 
 # About me:
     - I’m interested in cybersecurity
-    - I’m currently learning Haskell
+    - I’m currently learning Rust
     - I’m looking to collaborate on rootkits and tools for osint and bruteforce tools
     - Linux Enthusiast
     - How to reach me - falkensmaze13@protonmail.com
