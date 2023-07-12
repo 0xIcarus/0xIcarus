@@ -9,11 +9,8 @@ Hi, I'm Icarus 👨‍💻
 
 
 # About me:
-    - I’m interested in cybersecurity
-    - I’m currently learning Rust
-    - I’m looking to collaborate on rootkits and tools for osint and bruteforce tools
-    - Linux Enthusiast
-    - How to reach me - falkensmaze13@protonmail.com
+
+  - I'm an 18 year old programmer, cybersecurity engineer and an avid Linux enthusiast. My other interests include hardware engineering/hacking, math, backend development, systems engineering, system architecture, OSdev and writing rootkits. I also enjoy working with computer graphics Yes, I'm that hacker your friends told you about.
 
 ---
 
