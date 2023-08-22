@@ -1,7 +1,7 @@
 Hi, I'm Icarus 👨‍💻
 ==============
 
-***I'm a cybersecurity enthusiast and I like to code in Python. I also like Linux and open source software.***
+***I'm a cybersecurity enthusiast and I like to code in C and Python. I also like Linux and open source software.***
 
 <p align="center"> 
   <img src="https://i.ibb.co/H4dfMT3/carbon.png alt="carbon" border="0" width="400">
