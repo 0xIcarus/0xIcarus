@@ -4,7 +4,7 @@ Hi, I'm Icarus 👨‍💻
 ***I'm a cybersecurity enthusiast and I like to code in C and Python. I also like Linux and open source software.***
 
 <p align="center"> 
-  <img src="https://i.ibb.co/GJRSRWj/carbon.png alt="carbon" border="0" width="400">
+  <img src="https://i.ibb.co/GJRSRW/carbon.png alt="carbon" border="0" width="400">
 </p>
 
 
