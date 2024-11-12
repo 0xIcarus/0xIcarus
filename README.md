@@ -10,7 +10,7 @@ Hi, I'm Icarus 👨‍💻
 
 # About me:
 
-  - I'm a 19 year old programmer, cybersecurity engineer and an avid Linux enthusiast. My interests include hardware engineering/hacking, systems engineering, system architecture and infra, networking, OSdev and malware development. I also enjoy working with computer graphics sometimes. Yes, I'm that hacker your friends told you about.
+  - I'm a 20 year old programmer, cybersecurity engineer and an avid Linux enthusiast. My interests include hardware engineering/hacking, systems engineering, system architecture and infra, networking, OSdev and malware development. I also enjoy working with computer graphics sometimes. Yes, I'm that hacker your friends told you about.
 
 ---
 
