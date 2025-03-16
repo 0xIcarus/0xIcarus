@@ -3,11 +3,6 @@ Hi, I'm Icarus 👨‍💻
 
 ***I'm a cybersecurity enthusiast and I like to code in C and Rust. I also like Linux and open source software.***
 
-<p align="center"> 
-  <img src="https://i.ibb.co/k2wvqps/carbon2.png alt="carbon" border="0" width="400">
-</p>
-
-
 # About me:
 
   - I'm a 20 year old programmer, cybersecurity engineer and an avid Linux enthusiast. My interests include hardware engineering/hacking, systems engineering, system architecture and infra, networking, OSdev and malware development. I also enjoy working with computer graphics sometimes. Yes, I'm that hacker your friends told you about.
