@@ -13,7 +13,7 @@ Hi, I'm Icarus 👨‍💻
 
 ***Stats***
 
-[![Icarus' GitHub stats](https://github-readme-stats.vercel.app/api?username=0xIcarus&theme=merko&border_color=000000&include_all_commits=true)](https://github.com/Icarus131/Icarus131)
+[![Icarus' GitHub stats](https://github-readme-stats.vercel.app/api?username=0xIcarus&theme=merko&border_color=000000&include_all_commits=true)](https://github.com/0xIcarus/0xIcarus)
 [![An image of @icarus131's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/icarus131)](https://holopin.io/@icarus131)
 
 ***Languages and Tools***
