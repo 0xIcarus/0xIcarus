@@ -7,8 +7,7 @@
     
   `20 y/o programmer and cybersecurity engineer.`<br><br>
   `i do systems engineering, OSdev, malware dev, reverse eng,`<br>
-  `networks, compilers, sys architecture, hardware, and graphics`<br>
-  `programming`<br><br>
+  `networks, compilers, sys architecture, hardware, and graphics programming`<br><br>
   `yes, i am that hacker your friends told you about`
   </em>
 </p>
