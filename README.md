@@ -1,4 +1,4 @@
-## Icarus
+## Hi, I'm Icarus
 
 <p>
   <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xIcarus&show_icons=true&theme=great-gatsby" width="400">
