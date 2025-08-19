@@ -6,9 +6,9 @@
   <em>
     
   `20 y/o programmer and cybersecurity engineer.`<br><br>
-  `i do systems engineering, OSdev, malware dev, reverse eng,`<br>
-  `networks, compilers, sys architecture, hardware, and graphics programming`<br><br>
-  `yes, i am that hacker your friends told you about`
+  `systems engineering, OSdev, malware dev, reverse eng,`<br>
+  `networks, compilers, sys architecture, hardware, kernel reverse engineering`<br><br>
+  `If there is a shell, there is a way`
   </em>
 </p>
 
